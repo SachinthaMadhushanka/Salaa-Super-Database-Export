@@ -1,0 +1,8 @@
+{
+    "db_host": "localhost",
+    "db_name": "sala_super_db",
+    "db_user": "root",
+    "db_password": "",
+    "backup_folder": "Backups/",
+    "firebase_bucket": "salaa-super.appspot.com"
+}
